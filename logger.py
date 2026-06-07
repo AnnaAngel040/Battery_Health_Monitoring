@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 # --- CONFIGURATION ---
-READ_API_KEY = "70W3479MUJZCA5NR" # 1. Replace with your actual key
+READ_API_KEY = "" # 1. Replace with your actual key
 CHANNEL_ID = "3351842"
 DB_NAME = "battery_history.db"
 
